@@ -1,0 +1,86 @@
+[
+    {
+      "id": "01",
+      "img": "https://img.freepik.com/free-photo/online-web-design_53876-95309.jpg?w=740&t=st=1666768325~exp=1666768925~hmac=fa6ae7b1649d7f4cbaedac98b6df7340c75f5fea4c544070f0bcde508d680e72",
+      "coursesName": "HTML, CSS, and Javascript for Web Developers",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by John Smith",
+          "totalTime": "50 lectures (190 hrs)"
+        }
+      ],
+      "priceAll": "$100 All Course",
+      "pricePer": "$15 per month"
+    },
+    {
+      "id": "02",
+      "img": "https://img.freepik.com/free-photo/web-design-concept-with-drawings_1134-77.jpg?w=740&t=st=1666768726~exp=1666769326~hmac=04f28d3eb25074b3957bb49dd1b1e0a68973ef43a45b5fdc6764176c6df0b3dd",
+      "coursesName": "UI/UX design Enhancing Adobe Photoshop CC 2022 Skills",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by Ram Gurung",
+          "totalTime": "30 lectures (125 hrs)"
+        }
+      ],
+      "priceAll": "$200 All Course",
+      "pricePer": "$25 per month"
+    },
+    {
+      "id": "03",
+      "img": "https://img.freepik.com/free-photo/seo-search-engine-optimization-internet-digital-concept_53876-138498.jpg?w=740&t=st=1666768857~exp=1666769457~hmac=16a7214cdc3c49de2b07dabc60a9f07208068a3ad457e69254e2c99ad8e06275",
+      "coursesName": "Introducing to SEO optimization and Google ranking",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by Saroj Nepal",
+          "totalTime": "50 lectures (50 hrs)"
+        }
+      ],
+      "priceAll": "$50 All Course",
+      "pricePer": "$5 per month"
+    },
+    {
+      "id": "04",
+      "img": "https://img.freepik.com/free-photo/creative-design-designer-man-working_53876-98147.jpg?w=740&t=st=1666769071~exp=1666769671~hmac=f04486264bf0d06aacf05243fa5894e08ae73674aac47bb11cfc10f15f509b25",
+      "coursesName": "Professional Graphics Design, PhotoShop, Adobe, Figma",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by Prabin Thapa Mager",
+          "totalTime": "20 lectures (20 hrs)"
+        }
+      ],
+      "priceAll": "$30 All Course",
+      "pricePer": "$3 per month"
+    },
+    {
+      "id": "05",
+      "img": "https://img.freepik.com/free-photo/close-up-mobile-phone-with-cloud-apps_1134-88.jpg?w=740&t=st=1666770195~exp=1666770795~hmac=afb31d910eeaa35d4e5aa46fd8ff17bbdd05adfbecf7298146a00acb9a74762c",
+      "coursesName": "Introduction to App Development with Java, Phython",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by Sunil Bishowkaram",
+          "totalTime": "100 lectures (150 hrs)"
+        }
+      ],
+      "priceAll": "$300 All Course",
+      "pricePer": "$30 per month"
+    },
+    {
+      "id": "06",
+      "img": "https://img.freepik.com/free-photo/closeup-hands-using-computer-laptop-with-screen-showing-analysis-data_53876-23014.jpg?w=740&t=st=1666770702~exp=1666771302~hmac=f902e4af60a5d3943f6d88850f40edc7dd587d7cd1f461af56e9d6ffa951f95d",
+      "coursesName": "Data Analysis With Phython",
+      "courTeacher": [
+        {
+          "dcover": "./images/back.webp",
+          "name": "by Sunil Bishowkaram",
+          "totalTime": "200 lectures (300 hrs)"
+        }
+      ],
+      "priceAll": "$500 All Course",
+      "pricePer": "$80 per month"
+    }
+  ]
