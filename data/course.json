@@ -10,7 +10,7 @@
           "totalTime": "50 lectures (190 hrs)"
         }
       ],
-      "course_id": "01",
+      "category_id": "01",
       "priceAll": "$100 All Course",
       "pricePer": "$15 per month"
     },
@@ -25,7 +25,7 @@
           "totalTime": "30 lectures (125 hrs)"
         }
       ],
-      "course_id": "02",
+      "category_id": "02",
       "priceAll": "$200 All Course",
       "pricePer": "$25 per month"
     },
@@ -40,7 +40,7 @@
           "totalTime": "50 lectures (50 hrs)"
         }
       ],
-      "course_id": "03",
+      "category_id": "03",
       "priceAll": "$50 All Course",
       "pricePer": "$5 per month"
     },
@@ -55,7 +55,7 @@
           "totalTime": "20 lectures (20 hrs)"
         }
       ],
-      "course_id": "04",
+      "category_id": "04",
       "priceAll": "$30 All Course",
       "pricePer": "$3 per month"
     },
@@ -70,7 +70,7 @@
           "totalTime": "100 lectures (150 hrs)"
         }
       ],
-      "course_id": "05",
+      "category_id": "05",
       "priceAll": "$300 All Course",
       "pricePer": "$30 per month"
     },
@@ -85,7 +85,7 @@
           "totalTime": "200 lectures (300 hrs)"
         }
       ],
-      "course_id": "06",
+      "category_id": "06",
       "priceAll": "$500 All Course",
       "pricePer": "$80 per month"
     }
